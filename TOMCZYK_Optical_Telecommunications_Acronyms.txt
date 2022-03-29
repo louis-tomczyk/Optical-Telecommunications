@@ -1,59 +1,55 @@
-% ================================
-%   ABBREVIATIONS
-% ================================
-
 % ----------- A
-ABC : Automatic Bias Control
-AGC : Automatic Gain Control
-APD : Avalanche Photo-Diode
-AN : Access Network
-ATM : Asynchronous Transfer Mode
+ABC  : Automatic Bias Control
+AGC  : Automatic Gain Control
+APD  : Avalanche Photo-Diode
+AN   : Access Network
+ATM  : Asynchronous Transfer Mode
 
 % ----------- B
 BIBO : Bounded Input Bounded Output
-BS : Beam Splitter
+BS   : Beam Splitter
 
 % ----------- C
 CDMA : Code Division Multiple Access
-CKT : circuit
-CMA : Constant Modulus Algorithm
-CN : Campus Network
-CPE : Carrier Phase Estimation
-CPR : Carrier Phase Recovery
-CRF : Coherent Receiver Front-end
-CUT : Channel Under Test
+CKT  : circuit
+CMA  : Constant Modulus Algorithm
+CN   : Campus Network
+CPE  : Carrier Phase Estimation
+CPR  : Carrier Phase Recovery
+CRF  : Coherent Receiver Front-end
+CUT  : Channel Under Test
 
 % ----------- D
-DA : Drive Amplifier
-DAC : Digital to Analog Converter
-DCM : Dispersion Compensating Module
-DCR : Direct Conversion Receiver
-DP : Dual Polarisation
-DPD : Digital Pre Distorsion
-DUT : Device Under Test
+DA   : Drive Amplifier
+DAC  : Digital to Analog Converter
+DCM  : Dispersion Compensating Module
+DCR  : Direct Conversion Receiver
+DP   : Dual Polarisation
+DPD  : Digital Pre Distorsion
+DUT  : Device Under Test
 
 
 % ----------- E
-ECL : External Cavity Laser
+ECL  : External Cavity Laser
 ECOC : European Conference on Optical Communication
 ECOC : Ensemble Complet d'Observables qui Commutent
 EDFA : Erbium Doped Fibre Amplifier
-EGN : Enhanced Gaussian Noise
-EVM : Error Vector Magnitude
+EGN  : Enhanced Gaussian Noise
+EVM  : Error Vector Magnitude
 
 % ----------- F
 FDDI : Fiber Distributed Data Interface
-FF : Frequency Flat
-FIR : Finite Impulse Response
+FF   : Frequency Flat
+FIR  : Finite Impulse Response
 FITL : Fiber In The Loop
-FO : Frequency Offset
-FOC : Frequency Offset Compensation
-FS : Frequency Selective
+FO   : Frequency Offset
+FOC  : Frequency Offset Compensation
+FS   : Frequency Selective
 FTTH : Fiber To The Home
 
 % ----------- G
-GN : Gaussian Noise
-GNB : Gaussian Naive Bayes
+GN   : Gaussian Noise
+GNB  : Gaussian Naive Bayes
 GSNR : Generalised Signal to Noise Ratio
 GSOP : Gram-Schmidt Orthogonalization Procedure
 
@@ -61,11 +57,11 @@ GSOP : Gram-Schmidt Orthogonalization Procedure
 HDLC : High level Data Link Control
 
 % ----------- I
-IF : Intermediate Frequency
-IGN : Incohrent Gaussian Noise
-IL : Insertion Loss
-IP : Internet Protocol
-ISI : Inter-Symbol Interference
+IF   : Intermediate Frequency
+IGN  : Incohrent Gaussian Noise
+IL   : Insertion Loss
+IP   : Internet Protocol
+ISI  : Inter-Symbol Interference
 ISRS : Inter-channel Stimulated Raman Scattering
 
 % ----------- J
@@ -73,130 +69,95 @@ ISRS : Inter-channel Stimulated Raman Scattering
 % ----------- K
 
 % ----------- L
-LMS : Least Mean Square
-LO : Local Oscillator
+LMS  : Least Mean Square
+LO   : Local Oscillator
 
 % ----------- M
-MB : Margin Boundaries
-MBS : Multi-Band System
-MIMO : Multiple Input Multiple Output
+MB    : Margin Boundaries
+MBS   : Multi-Band System
+MIMO  : Multiple Input Multiple Output
 MONET : Mulit-wavelength Optican NETworking
 
 % ----------- N
-NEB : Noise Equivalent Bandwidth
-NEP : Noise Equivalent Power
-NLI : Non Linear Interference
+NEB  : Noise Equivalent Bandwidth
+NEP  : Noise Equivalent Power
+NLI  : Non Linear Interference
 NLPN : NonLinear Phase Noise (déforme la forme de la constellation)
 
 % ----------- O
-ODN : Optical Distribution Network
-OEI : Optical Emission Interface
+ODN  : Optical Distribution Network
+OEI  : Optical Emission Interface
 OFDM : Orthogonal Frequency Division Multiplex
-OLT : Optical Line Terminal
-OMS : Optical Multiplex Section (= link between 2 ROADM)
-ONT : Optical Network Terminal
-ONU : Optical Network Unit
-ORI : Optical Reception Interface
-OSA : Optical Spectrum Analyser
-OSI : Open System Interconnect
+OLT  : Optical Line Terminal
+OMS  : Optical Multiplex Section (= link between 2 ROADM)
+ONT  : Optical Network Terminal
+ONU  : Optical Network Unit
+ORI  : Optical Reception Interface
+OSA  : Optical Spectrum Analyser
+OSI  : Open System Interconnect
 OSNR : Optical Signal to Noise Ratio
-OTN : Optical Transport network
+OTN  : Optical Transport network
 OTDR : Optical Time Domain Reflectometry
-OXC : Optical Cross Connect
+OXC  : Optical Cross Connect
 
 % ----------- P
-PBS : Polarisation Beam Splitter
-PC : Polarisation Controller
-PCS : Probabilistic Constellation Shaping
-PDF : Probability Distribution Function
-PDG : Polarisation Dependent Gain
-PDL : Polarisation Dependent Loss
-PMF : Polarisation Maintaining Fiber
-PPP : Point to Point Protocol
-PSK : Phase Shift Keying
+PBS  : Polarisation Beam Splitter
+PC   : Polarisation Controller
+PCS  : Probabilistic Constellation Shaping
+PDF  : Probability Distribution Function
+PDG  : Polarisation Dependent Gain
+PDL  : Polarisation Dependent Loss
+PMF  : Polarisation Maintaining Fiber
+PPP  : Point to Point Protocol
+PSK  : Phase Shift Keying
 
 % ----------- Q
-QoS : Quality of Service
-QoT : Quality of Transmission
+QoS  : Quality of Service
+QoT  : Quality of Transmission
 QPSK : Quadrature Phase Shift Keying
 
 % ----------- R
-RCM : Reversed Channel Method
-RD : Radius Directed
+RCM  : Reversed Channel Method
+RD   : Radius Directed
 ReLU : Rectified Linear Unit
-RTO : Real Time Oscilloscope
+RTO  : Real Time Oscilloscope
 
 % ----------- S
-SDH : Synchronous Digital Hierarchy
-SeLU : Scaled exponential Linear Unit
-SHB : Spectral Hole Burning
-SI : System Identification
-SLC : Subscriber Loop Carrier
-SNN : Self normalising Neural Network
-SNR : Signal to Noise Ratio
+SDH   : Synchronous Digital Hierarchy
+SeLU  : Scaled exponential Linear Unit
+SHB   : Spectral Hole Burning
+SI    : System Identification
+SLC   : Subscriber Loop Carrier
+SNN   : Self normalising Neural Network
+SNR   : Signal to Noise Ratio
 SONET : Synchronous Optical NETwork
-SSA : Stokes Space Algorithm
-SSB : Single-Side Band
-SSF : Split-Step Fourier
+SSA   : Stokes Space Algorithm
+SSB   : Single-Side Band
+SSF   : Split-Step Fourier
 
 % ----------- T
-TAT : Trans Atlantic Telephone
-TCP : Transmission Control Protocol
-TDM : Time Division Multiplexing
+TAT  : Trans Atlantic Telephone
+TCP  : Transmission Control Protocol
+TDM  : Time Division Multiplexing
 TDFA : Thulium Doped Fiber Amplifier
 
 % ----------- U
 
 % ----------- V
 VNLE : Volterra NonLinear Equalizer
-VOA : Variable Optical Attenuator
-VTD : Virtual Topology Design
+VOA  : Variable Optical Attenuator
+VTD  : Virtual Topology Design
 
 
 % ----------- W
 WADM : Wavelength Add/Drop Multiplexer
-WDM : Wavelength Division Multiplexing
-WSS : Wavelength Selective Switching
+WDM  : Wavelength Division Multiplexing
+WSS  : Wavelength Selective Switching
 
 % ----------- X
 
 % ----------- Y
 
 % ----------- Z
-ZFE : Zero Forcing Equalizer
+ZFE  : Zero Forcing Equalizer
 
-
-% ================================
-%   DEFINITIONS
-% ================================
-% GreenField VS Brownfield network
-% https://www.techtarget.com/searchunifiedcommunications/definition/greenfield-deployment#:~:text=Greenfield%20network.&text=New%20cellular%20radio%20technology%2C%20such,little%20or%20no%20legacy%20technology.
-A greenfield deployment is the design, installation and configuration of computer infrastructure where none existed before, for example, in a new office. In contrast, a brownfield deployment is an upgrade or addition to existing infrastructure using legacy components.
-
-% ================================
-%   USEFULL LINKS
-% ================================
-https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise
-http://igm.univ-mlv.fr/~duris/NTREZO/20022003/SDH.pdf
-https://www.infinera.com/blog/ah-so-thats-how-probabilistic-constellation-shaping-works/tag/long-haul/
-https://en.wikipedia.org/wiki/Intermediate_frequency
-
-
-% ================================
-%   QUESTIONS
-% ================================
-
-what's the load? the number of channels we want to send into the fibre?
-
-% ================================
-%   THINGS TO LOOK AT
-% ================================
-
-transparent/opaque Network
-Reversed Channel Method (RCM)
-Zero Forcing Equalizer (ZFE)
-Constant Modulus Algorithm (CMA)
-Incoherent Gaussian Noise (IGN)
-Enhanced Gaussian Noise (EGN)
-Spectral Hole Burning (SHB)
-Polarisation Dependent Loss : voir Lefebvre - gyroscopes
