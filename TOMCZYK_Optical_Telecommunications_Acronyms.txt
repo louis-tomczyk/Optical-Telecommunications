@@ -1,66 +1,123 @@
 % ----------- A
 ABC  : Automatic Bias Control
+ADC  : Analog to Digital Converter
+AEQ  : Adaptative EQualizer
+AI   : Anomaly Indicator
 AGC  : Automatic Gain Control
 APD  : Avalanche Photo-Diode
 AN   : Access Network
+ASE  : Amplified Spontaneous Emission
+ASK  : Amplitude Shift Keying
 ATM  : Asynchronous Transfer Mode
+AUC  : Area Under the Curve
 
 % ----------- B
+BBA  : Basic Belief Assignment
+BEP  : Bit Error Probability
+BER  : Bit Error Ratio
+BFGS : Broyden Fletcher Goldfarb Shanno algorithm
 BIBO : Bounded Input Bounded Output
+BPD  : Balanced Photo Detector
 BS   : Beam Splitter
+BSC  : Belief Shift Clustering
 
 % ----------- C
+CART : Classfication And Regression Trees
+CCM  : Credal C-Means
+CD   : Coherent Detection
 CDMA : Code Division Multiple Access
+CDR  : Clock Data Recovery
+CHAID: CHi squared Automatic Interaction Detector
 CKT  : circuit
 CMA  : Constant Modulus Algorithm
+CMT  : Coupled Mode Theory
 CN   : Campus Network
+CNN  : Convolutionnal Neural Network
 CPE  : Carrier Phase Estimation
 CPR  : Carrier Phase Recovery
+CQF  : Conjugate Quadrature Filter
+CR   : Clock Recovery
 CRF  : Coherent Receiver Front-end
+CRI  : Credal Rand Index
 CUT  : Channel Under Test
+CW   : Continuous Wave
+CWE  : Coupled Wave Equations
 
 % ----------- D
 DA   : Drive Amplifier
 DAC  : Digital to Analog Converter
+DCF  : Double Clad Fibre
+DCF  : Dispersion Compensated Fibre
 DCM  : Dispersion Compensating Module
 DCR  : Direct Conversion Receiver
+DEC  : Dynamic Evidential Clustering
+DFB  : Distributed FeedBack
+DGD  : Differential Group Delay
+DMD  : Differential Mode Delay
 DP   : Dual Polarisation
 DPD  : Digital Pre Distorsion
+DQPSK: Differential Quadrature Phase Shift Keying
+DSF  : Dispersion Shifted Fibre
+DSP  : Digital Signal Procesing
+DST  : Dempster-Shafer Theory
 DUT  : Device Under Test
-
+DWT  : Discrete Wavelet Transform
 
 % ----------- E
+EAM  : Electro-Absorption Modulator
 ECL  : External Cavity Laser
+ECM  : Evidential C-Means
 ECOC : European Conference on Optical Communication
 ECOC : Ensemble Complet d'Observables qui Commutent
 EDFA : Erbium Doped Fibre Amplifier
+EGMM : Evidential Gaussian Mixture Model
 EGN  : Enhanced Gaussian Noise
+ELPF : Electrical Low Pass Filter
+EO   : Eye Openning
+ER   : Extinction Ratio
+ESS  : Explained Sum of Squares
+ETDM : Electrical Time Division Multiplexing
 EVM  : Error Vector Magnitude
 
 % ----------- F
+FBG  : Fibre Bragg Grating
+FCM  : Fuzzy C-Means
 FDDI : Fiber Distributed Data Interface
+FEC  : Forward Error Correction
 FF   : Frequency Flat
+FFT  : Fast Fourier Transform
 FIR  : Finite Impulse Response
 FITL : Fiber In The Loop
+FN   : Frequency Noise
 FO   : Frequency Offset
 FOC  : Frequency Offset Compensation
+FoM  : Figure of Merit
+FRCP : Frequency Resolved Calibration Procedure
 FS   : Frequency Selective
 FTTH : Fiber To The Home
+FWHM : Full Width Half Maximum
+FWM  : Four Waves Mixing
 
 % ----------- G
 GN   : Gaussian Noise
 GNB  : Gaussian Naive Bayes
+GPON ; Gigabit Passive Optical Network
 GSNR : Generalised Signal to Noise Ratio
 GSOP : Gram-Schmidt Orthogonalization Procedure
 
 % ----------- H
 HDLC : High level Data Link Control
+HHG  : High order Harmonic Generation
+HSPON: High Speed Passive Optical Network
 
 % ----------- I
+ID3  : Iterative Dichotomiser 3
 IF   : Intermediate Frequency
+IG   : Information Gain
 IGN  : Incohrent Gaussian Noise
 IL   : Insertion Loss
 IP   : Internet Protocol
+IPA  : Interrelation Profile Analysis
 ISI  : Inter-Symbol Interference
 ISRS : Inter-channel Stimulated Raman Scattering
 
@@ -69,95 +126,171 @@ ISRS : Inter-channel Stimulated Raman Scattering
 % ----------- K
 
 % ----------- L
+LAN  : Local Area Network
+LBFGS: Limitied Memory BFGS
+LDS  : Laser Diode Stabilizer
+LEAF : Large Effective Area Fibre
+LL   : Log Likelihood
+LMA  : Large Mode Area
 LMS  : Least Mean Square
+LNEO : Lithium Niobate Electro Optic
 LO   : Local Oscillator
+LWR  : Locally Weighted Regression
 
 % ----------- M
+MAN   : Metropolitan Area Network
+MARS  : Multivariate Adaptative Regression Splines
 MB    : Margin Boundaries
 MBS   : Multi-Band System
+MCF   : Multiple Core Fibre
+MI    : Modulation Instabilities
 MIMO  : Multiple Input Multiple Output
+MLP   : Multi Layers Perceptron
 MONET : Mulit-wavelength Optican NETworking
+MQW   : Multi Quantum Well
+MSS   : Modified Sum of Squares
+MZ    : Mach-Zehnder
+MZM   : Mach-Zehnder Modulator
 
 % ----------- N
-NEB  : Noise Equivalent Bandwidth
-NEP  : Noise Equivalent Power
-NLI  : Non Linear Interference
-NLPN : NonLinear Phase Noise (déforme la forme de la constellation)
+NA    : Numerical Aperture
+NEB   : Noise Equivalent Bandwidth
+NEP   : Noise Equivalent Power
+NLI   : Non Linear Interference
+NLPN  : NonLinear Phase Noise
+NLSE  : Non Linear Schrodinger Equation
+NN    : Neural Network
+NRD   : Non Residual Dispersion
+NRZ   : Non Return to Zero
+NZDSF : Non-Zero Dispersion Shifted Fibre
 
 % ----------- O
+OADM : Optical Add-Drop Multiplexer
+OAM  : Orbital Angular Momentum
+OBPF : Optical Band Pass Filter
 ODN  : Optical Distribution Network
 OEI  : Optical Emission Interface
 OFDM : Orthogonal Frequency Division Multiplex
 OLT  : Optical Line Terminal
+OMA  : Optical Monitoring and Analysis
 OMS  : Optical Multiplex Section (= link between 2 ROADM)
 ONT  : Optical Network Terminal
 ONU  : Optical Network Unit
+OOK  : On-Off Keying
+OPO  : Optical Parametric Oscillator
 ORI  : Optical Reception Interface
 OSA  : Optical Spectrum Analyser
 OSI  : Open System Interconnect
 OSNR : Optical Signal to Noise Ratio
 OTN  : Optical Transport network
 OTDR : Optical Time Domain Reflectometry
+OTDM : Optical Time Division Multiplexing
 OXC  : Optical Cross Connect
 
 % ----------- P
+PAM  : Pulse Amplitude Modulation
 PBS  : Polarisation Beam Splitter
 PC   : Polarisation Controller
+PCA  : Principal Component Analysis
 PCS  : Probabilistic Constellation Shaping
+PDM  : Polarisation Division Multiplexing
+PER  : Polarisation Extinction Ratio
 PDF  : Probability Distribution Function
 PDG  : Polarisation Dependent Gain
 PDL  : Polarisation Dependent Loss
+PLL  : Phase Locked Loop
+PMD  : Polarisation Mode Dispersion
 PMF  : Polarisation Maintaining Fiber
+PON  : Passive Optical Network
+PP   : Power Penalty
+PPE  : Power Profile Estimator
+PPLN : Periodically Poled Lithium Niobate
 PPP  : Point to Point Protocol
 PSK  : Phase Shift Keying
+PWM  : Pulse Width Modulation
 
 % ----------- Q
+QCL  : Quantum Cascade Laser
 QoS  : Quality of Service
 QoT  : Quality of Transmission
+QPM  : Quasi Phase Matching
 QPSK : Quadrature Phase Shift Keying
 
 % ----------- R
+RAN  : Regional Area Network
 RCM  : Reversed Channel Method
 RD   : Radius Directed
 ReLU : Rectified Linear Unit
+RIN  : Relative Intensity Noise
+RMSE : Root Mean Squared Error
+RNN  : Recursive Neural Network
+ROC  : Receiver Operating Characteristics
+ROADM: Reconfigurable Optical Add-Drop Multiplexer
+RS   : Random Sampling
+RSOA : Reflective Semiconductor Optical Amplifier
 RTO  : Real Time Oscilloscope
 
 % ----------- S
+SAM   : Spinning Angular Momentum
+SCM   : Sub Carrier Multiplexing
 SDH   : Synchronous Digital Hierarchy
+SDM   : Spatial Division Multiplexing
 SeLU  : Scaled exponential Linear Unit
+SGD   : Stochastic Gradient Descent
 SHB   : Spectral Hole Burning
+SHG   : Second Harmonic Generation
 SI    : System Identification
 SLC   : Subscriber Loop Carrier
+SMF   : Single Mode Fibre
+SMSR  : Single Mode Suppression Ratio
 SNN   : Self normalising Neural Network
 SNR   : Signal to Noise Ratio
+SOA   : Semiconductor Optical Amplifier
+SoP   : State of Polarisation
 SONET : Synchronous Optical NETwork
+SOTA  : State Of The Art
+SPIDER: Spectral Phase Interferometry for Direct Electric field Reconstruction
+SPM   : Self Phase Modulation
+SRSI  : Self Reference Spectral Interferometry
 SSA   : Stokes Space Algorithm
 SSB   : Single-Side Band
 SSF   : Split-Step Fourier
+SVM   : Support Vector Machine
 
 % ----------- T
 TAT  : Trans Atlantic Telephone
+TBF  : Theory of Belief Functions
 TCP  : Transmission Control Protocol
 TDM  : Time Division Multiplexing
 TDFA : Thulium Doped Fiber Amplifier
+TECM : Transfer Evidential C-Means
+THG  : Third Harmonic Generation
+TIA  : Trans-Impedance Amplifier
+TSS  : Total Sum of Squares
 
 % ----------- U
 
 % ----------- V
+VCSEL: Vertical Cavity Surface Emitting Laser
+VM   : Vanishing Moments
 VNLE : Volterra NonLinear Equalizer
 VOA  : Variable Optical Attenuator
 VTD  : Virtual Topology Design
-
+VUS  : Volume Under Surface
 
 % ----------- W
+WAN  : Wide Area Network
 WADM : Wavelength Add/Drop Multiplexer
 WDM  : Wavelength Division Multiplexing
 WSS  : Wavelength Selective Switching
+WGS  : Whispering Gallery Mode
 
 % ----------- X
+XPM : Crossed Phase Modulation
+XPW : Crossed Polarized Wave
+XT  : Cross Talk
 
 % ----------- Y
 
 % ----------- Z
 ZFE  : Zero Forcing Equalizer
-
