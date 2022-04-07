@@ -1,9 +1,10 @@
 % ================================
+% ================================
 %   IDENTIFICATION
 % ================================
 % author --- louis tomczyk
 % institution --- Telecom Paris
-% date --- 2022/04/05
+% date --- 2022/04/07
 % contact --- louis.tomczyk.work@gmail.com
 % ================================
 %   CODE
@@ -25,6 +26,7 @@
 % --- let introduce the function t->x(t) we note it "x_t".
 % --- the time is noted "t"
 % --- its Fourier transform is given by x(f) = F[t->x(t)](f) we note it "x_f"
+% x_t  = ...  
 % x_f  = FT(x_t,t)
 
 % --- the power in both domains is given by Riemann Integrals (rectangles) using
