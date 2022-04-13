@@ -10,6 +10,8 @@ ASE  : Amplified Spontaneous Emission
 ASK  : Amplitude Shift Keying
 ATM  : Asynchronous Transfer Mode
 AUC  : Area Under the Curve
+AWG  : Arbitrary Waveform Generator
+AWGN : Additive White Gaussian Noise
 
 % ----------- B
 BBA  : Basic Belief Assignment
@@ -46,6 +48,7 @@ CWE  : Coupled Wave Equations
 % ----------- D
 DA   : Drive Amplifier
 DAC  : Digital to Analog Converter
+DBP  : Digital Back Propagation
 DCF  : Double Clad Fibre
 DCF  : Dispersion Compensated Fibre
 DCM  : Dispersion Compensating Module
@@ -58,6 +61,7 @@ DP   : Dual Polarisation
 DPD  : Digital Pre Distorsion
 DQPSK: Differential Quadrature Phase Shift Keying
 DSF  : Dispersion Shifted Fibre
+DSO  : Digital Sampling Oscilloscope
 DSP  : Digital Signal Procesing
 DST  : Dempster-Shafer Theory
 DUT  : Device Under Test
@@ -74,6 +78,7 @@ EGMM : Evidential Gaussian Mixture Model
 EGN  : Enhanced Gaussian Noise
 ELPF : Electrical Low Pass Filter
 EO   : Eye Openning
+EOM  : Electro Optic Modulator
 ER   : Extinction Ratio
 ESS  : Explained Sum of Squares
 ETDM : Electrical Time Division Multiplexing
@@ -104,6 +109,7 @@ GNB  : Gaussian Naive Bayes
 GPON ; Gigabit Passive Optical Network
 GSNR : Generalised Signal to Noise Ratio
 GSOP : Gram-Schmidt Orthogonalization Procedure
+GVD  : Group Velocity Dispersion
 
 % ----------- H
 HDLC : High level Data Link Control
@@ -118,8 +124,10 @@ IGN  : Incohrent Gaussian Noise
 IL   : Insertion Loss
 IP   : Internet Protocol
 IPA  : Interrelation Profile Analysis
+IQM  : I-Q Modulator
 ISI  : Inter-Symbol Interference
 ISRS : Inter-channel Stimulated Raman Scattering
+ITLA : Integrable Tunable Laser Assembly 
 
 % ----------- J
 
@@ -143,6 +151,7 @@ MARS  : Multivariate Adaptative Regression Splines
 MB    : Margin Boundaries
 MBS   : Multi-Band System
 MCF   : Multiple Core Fibre
+MEMS  . Micro Electro Mechanical Structure  
 MI    : Modulation Instabilities
 MIMO  : Multiple Input Multiple Output
 MLP   : Multi Layers Perceptron
@@ -159,6 +168,7 @@ NEP   : Noise Equivalent Power
 NLI   : Non Linear Interference
 NLPN  : NonLinear Phase Noise
 NLSE  : Non Linear Schrodinger Equation
+NLPR  : Non Linear Phase Rotation
 NN    : Neural Network
 NRD   : Non Residual Dispersion
 NRZ   : Non Return to Zero
@@ -170,6 +180,7 @@ OAM  : Orbital Angular Momentum
 OBPF : Optical Band Pass Filter
 ODN  : Optical Distribution Network
 OEI  : Optical Emission Interface
+OEO  : optical-electrical-optical (wavelength converter)
 OFDM : Orthogonal Frequency Division Multiplex
 OLT  : Optical Line Terminal
 OMA  : Optical Monitoring and Analysis
@@ -190,10 +201,12 @@ OXC  : Optical Cross Connect
 % ----------- P
 PAM  : Pulse Amplitude Modulation
 PBS  : Polarisation Beam Splitter
+PBG  : Photonic Band Gap
 PC   : Polarisation Controller
 PCA  : Principal Component Analysis
 PCS  : Probabilistic Constellation Shaping
 PDM  : Polarisation Division Multiplexing
+PDM  : Polarisation Dependent Modulation
 PER  : Polarisation Extinction Ratio
 PDF  : Probability Distribution Function
 PDG  : Polarisation Dependent Gain
