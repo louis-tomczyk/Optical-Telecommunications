@@ -39,5 +39,5 @@
 
 function x_t = iFT(x_f,SampleRate)
   norm       = SampleRate;
-  x_t        = norm.*fftshift(ifft(x_f));
+  x_t        = norm.*fftshift(ifft(fftshift(x_f)));
 endfunction
