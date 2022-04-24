@@ -139,6 +139,8 @@ ITLA : Integrable Tunable Laser Assembly
 % ----------- L
 LAN  : Local Area Network
 LBFGS: Limitied Memory BFGS
+LCC  : Liquid Crystal Cell
+LCoS : Liquid Crystal on Silicon
 LDS  : Laser Diode Stabilizer
 LEAF : Large Effective Area Fibre
 LL   : Log Likelihood
@@ -146,6 +148,7 @@ LMA  : Large Mode Area
 LMS  : Least Mean Square
 LNEO : Lithium Niobate Electro Optic
 LO   : Local Oscillator
+LS   : Least Squares
 LWR  : Locally Weighted Regression
 
 % ----------- M
@@ -198,7 +201,8 @@ ORI  : Optical Reception Interface
 OSA  : Optical Spectrum Analyser
 OSI  : Open System Interconnect
 OSNR : Optical Signal to Noise Ratio
-OTN  : Optical Transport network
+OTN  : Optical Transport Network
+OTS  : Optical Transmission System
 OTDR : Optical Time Domain Reflectometry
 OTDM : Optical Time Division Multiplexing
 OXC  : Optical Cross Connect
@@ -207,6 +211,7 @@ OXC  : Optical Cross Connect
 PAM  : Pulse Amplitude Modulation
 PBS  : Polarisation Beam Splitter
 PBG  : Photonic Band Gap
+PBNE : Pass Band Narrowing Estimator
 PC   : Polarisation Controller
 PCA  : Principal Component Analysis
 PCS  : Probabilistic Constellation Shaping
