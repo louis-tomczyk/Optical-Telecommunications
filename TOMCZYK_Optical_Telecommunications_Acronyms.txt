@@ -104,6 +104,8 @@ FWHM : Full Width Half Maximum
 FWM  : Four Waves Mixing
 
 % ----------- G
+G    : Gigabits/s
+GD   : Gradient Descent
 GN   : Gaussian Noise
 GNB  : Gaussian Naive Bayes
 GPON ; Gigabit Passive Optical Network
@@ -114,6 +116,7 @@ GVD  : Group Velocity Dispersion
 % ----------- H
 HDLC : High level Data Link Control
 HHG  : High order Harmonic Generation
+HHI  : Heinrich-Hertz Institute (Fraunhofer HHI)
 HSPON: High Speed Passive Optical Network
 
 % ----------- I
@@ -160,7 +163,7 @@ MQW   : Multi Quantum Well
 MSS   : Modified Sum of Squares
 MZ    : Mach-Zehnder
 MZM   : Mach-Zehnder Modulator
-
+M2M   : Machine To Machine
 % ----------- N
 NA    : Numerical Aperture
 NEB   : Noise Equivalent Bandwidth
@@ -172,6 +175,7 @@ NLPR  : Non Linear Phase Rotation
 NN    : Neural Network
 NRD   : Non Residual Dispersion
 NRZ   : Non Return to Zero
+NTT   : Nippon Telegraph and Telephone
 NZDSF : Non-Zero Dispersion Shifted Fibre
 
 % ----------- O
@@ -180,11 +184,12 @@ OAM  : Orbital Angular Momentum
 OBPF : Optical Band Pass Filter
 ODN  : Optical Distribution Network
 OEI  : Optical Emission Interface
-OEO  : optical-electrical-optical (wavelength converter)
+OEO  : optical-electrical-optical
 OFDM : Orthogonal Frequency Division Multiplex
 OLT  : Optical Line Terminal
 OMA  : Optical Monitoring and Analysis
-OMS  : Optical Multiplex Section (= link between 2 ROADM)
+OMS  : Optical Multiplex Section
+ONF  : Open Networking Foundation
 ONT  : Optical Network Terminal
 ONU  : Optical Network Unit
 OOK  : On-Off Keying
@@ -219,11 +224,12 @@ PP   : Power Penalty
 PPE  : Power Profile Estimator
 PPLN : Periodically Poled Lithium Niobate
 PPP  : Point to Point Protocol
-PSK  : Phase Shift Keying
+PSK  : Phase Shift Keying 
 PWM  : Pulse Width Modulation
 
 % ----------- Q
 QCL  : Quantum Cascade Laser
+QoE  : Quality of Experience
 QoS  : Quality of Service
 QoT  : Quality of Transmission
 QPM  : Quasi Phase Matching
@@ -239,6 +245,7 @@ RMSE : Root Mean Squared Error
 RNN  : Recursive Neural Network
 ROC  : Receiver Operating Characteristics
 ROADM: Reconfigurable Optical Add-Drop Multiplexer
+RRC  : Root-Raised Cosine
 RS   : Random Sampling
 RSOA : Reflective Semiconductor Optical Amplifier
 RTO  : Real Time Oscilloscope
@@ -264,6 +271,7 @@ SONET : Synchronous Optical NETwork
 SOTA  : State Of The Art
 SPIDER: Spectral Phase Interferometry for Direct Electric field Reconstruction
 SPM   : Self Phase Modulation
+SRRC  : Square Root-Raised Cosine
 SRSI  : Self Reference Spectral Interferometry
 SSA   : Stokes Space Algorithm
 SSB   : Single-Side Band
@@ -307,3 +315,7 @@ XT  : Cross Talk
 
 % ----------- Z
 ZFE  : Zero Forcing Equalizer
+
+
+% ----------- ***
+*PSPC : Projets de R&D Structurants Pour la Compétitivité
