@@ -27,6 +27,7 @@ BSC  : Belief Shift Clustering
 CART : Classfication And Regression Trees
 CCM  : Credal C-Means
 CD   : Coherent Detection
+CDC  : Chromatic Dispersion Compensation
 CDMA : Code Division Multiple Access
 CDR  : Clock Data Recovery
 CHAID: CHi squared Automatic Interaction Detector
@@ -62,6 +63,7 @@ DPD  : Digital Pre Distorsion
 DQPSK: Differential Quadrature Phase Shift Keying
 DSF  : Dispersion Shifted Fibre
 DSO  : Digital Sampling Oscilloscope
+DSO  : Digital Storage Oscilloscope
 DSP  : Digital Signal Procesing
 DST  : Dempster-Shafer Theory
 DUT  : Device Under Test
@@ -97,6 +99,7 @@ FN   : Frequency Noise
 FO   : Frequency Offset
 FOC  : Frequency Offset Compensation
 FoM  : Figure of Merit
+FON  : Fourth Order Noise
 FRCP : Frequency Resolved Calibration Procedure
 FS   : Frequency Selective
 FTTH : Fiber To The Home
@@ -106,6 +109,8 @@ FWM  : Four Waves Mixing
 % ----------- G
 G    : Gigabits/s
 GD   : Gradient Descent
+GEQ  : Gain EQualiser/ation
+GFF  : Gain Flatening Filter
 GN   : Gaussian Noise
 GNB  : Gaussian Naive Bayes
 GPON ; Gigabit Passive Optical Network
@@ -120,6 +125,7 @@ HHI  : Heinrich-Hertz Institute (Fraunhofer HHI)
 HSPON: High Speed Passive Optical Network
 
 % ----------- I
+ICR  : Integrated Coherent Receiver
 ID3  : Iterative Dichotomiser 3
 IF   : Intermediate Frequency
 IG   : Information Gain
@@ -133,7 +139,8 @@ ISRS : Inter-channel Stimulated Raman Scattering
 ITLA : Integrable Tunable Laser Assembly 
 
 % ----------- J
-
+JLT  : Journal of Lightwave Technologies
+JQE  : Journal of Quantum Electronics
 % ----------- K
 
 % ----------- L
@@ -141,6 +148,7 @@ LAN  : Local Area Network
 LBFGS: Limitied Memory BFGS
 LCC  : Liquid Crystal Cell
 LCoS : Liquid Crystal on Silicon
+LD   : Laser Diode
 LDS  : Laser Diode Stabilizer
 LEAF : Large Effective Area Fibre
 LL   : Log Likelihood
@@ -157,6 +165,7 @@ MARS  : Multivariate Adaptative Regression Splines
 MB    : Margin Boundaries
 MBS   : Multi-Band System
 MCF   : Multiple Core Fibre
+MCI   : Multi Channel Interference
 MEMS  . Micro Electro Mechanical Structure  
 MI    : Modulation Instabilities
 MIMO  : Multiple Input Multiple Output
@@ -167,10 +176,12 @@ MSS   : Modified Sum of Squares
 MZ    : Mach-Zehnder
 MZM   : Mach-Zehnder Modulator
 M2M   : Machine To Machine
+
 % ----------- N
 NA    : Numerical Aperture
 NEB   : Noise Equivalent Bandwidth
 NEP   : Noise Equivalent Power
+NLC   : Non Linear Compensation
 NLI   : Non Linear Interference
 NLPN  : NonLinear Phase Noise
 NLSE  : Non Linear Schrodinger Equation
@@ -186,8 +197,10 @@ OADM : Optical Add-Drop Multiplexer
 OAM  : Orbital Angular Momentum
 OBPF : Optical Band Pass Filter
 ODN  : Optical Distribution Network
+OE   : Optics Express
 OEI  : Optical Emission Interface
 OEO  : optical-electrical-optical
+OFC  : Optical Fiber Communications
 OFDM : Orthogonal Frequency Division Multiplex
 OLT  : Optical Line Terminal
 OMA  : Optical Monitoring and Analysis
@@ -196,6 +209,7 @@ ONF  : Open Networking Foundation
 ONT  : Optical Network Terminal
 ONU  : Optical Network Unit
 OOK  : On-Off Keying
+OPM  : Optical Performance Monitoring
 OPO  : Optical Parametric Oscillator
 ORI  : Optical Reception Interface
 OSA  : Optical Spectrum Analyser
@@ -222,13 +236,17 @@ PDF  : Probability Distribution Function
 PDG  : Polarisation Dependent Gain
 PDL  : Polarisation Dependent Loss
 PLL  : Phase Locked Loop
+PM   : Polarization Maintaining
+PM   : Polarization Multiplexed/ing
 PMD  : Polarisation Mode Dispersion
 PMF  : Polarisation Maintaining Fiber
+PNAS : Proceedings of the National Academy of Sciences
 PON  : Passive Optical Network
 PP   : Power Penalty
 PPE  : Power Profile Estimator
 PPLN : Periodically Poled Lithium Niobate
 PPP  : Point to Point Protocol
+PSCF : Pure Silica Core Fibre
 PSK  : Phase Shift Keying 
 PWM  : Pulse Width Modulation
 
@@ -257,6 +275,7 @@ RTO  : Real Time Oscilloscope
 
 % ----------- S
 SAM   : Spinning Angular Momentum
+SCI   : Self Channel Interference
 SCM   : Sub Carrier Multiplexing
 SDH   : Synchronous Digital Hierarchy
 SDM   : Spatial Division Multiplexing
@@ -271,8 +290,9 @@ SMSR  : Single Mode Suppression Ratio
 SNN   : Self normalising Neural Network
 SNR   : Signal to Noise Ratio
 SOA   : Semiconductor Optical Amplifier
-SoP   : State of Polarisation
+SON   : Second Order Noise
 SONET : Synchronous Optical NETwork
+SoP   : State of Polarisation
 SOTA  : State Of The Art
 SPIDER: Spectral Phase Interferometry for Direct Electric field Reconstruction
 SPM   : Self Phase Modulation
@@ -281,6 +301,7 @@ SRSI  : Self Reference Spectral Interferometry
 SSA   : Stokes Space Algorithm
 SSB   : Single-Side Band
 SSF   : Split-Step Fourier
+SSMF  : Standard Single Mode Fibre
 SVM   : Support Vector Machine
 
 % ----------- T
@@ -292,6 +313,7 @@ TDFA : Thulium Doped Fiber Amplifier
 TECM : Transfer Evidential C-Means
 THG  : Third Harmonic Generation
 TIA  : Trans-Impedance Amplifier
+TS   : Training Sequence
 TSS  : Total Sum of Squares
 
 % ----------- U
@@ -312,6 +334,7 @@ WSS  : Wavelength Selective Switching
 WGS  : Whispering Gallery Mode
 
 % ----------- X
+XCI : Cross Channel Interference
 XPM : Crossed Phase Modulation
 XPW : Crossed Polarized Wave
 XT  : Cross Talk
