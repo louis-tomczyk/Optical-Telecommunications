@@ -122,6 +122,7 @@ GVD  : Group Velocity Dispersion
 HDLC : High level Data Link Control
 HHG  : High order Harmonic Generation
 HHI  : Heinrich-Hertz Institute (Fraunhofer HHI)
+HiBi : High Birefringence
 HSPON: High Speed Passive Optical Network
 
 % ----------- I
@@ -141,6 +142,7 @@ ITLA : Integrable Tunable Laser Assembly
 % ----------- J
 JLT  : Journal of Lightwave Technologies
 JQE  : Journal of Quantum Electronics
+
 % ----------- K
 
 % ----------- L
@@ -171,6 +173,7 @@ MI    : Modulation Instabilities
 MIMO  : Multiple Input Multiple Output
 MLP   : Multi Layers Perceptron
 MONET : Mulit-wavelength Optican NETworking
+MPS   : Modulation Phase Shift
 MQW   : Multi Quantum Well
 MSS   : Modified Sum of Squares
 MZ    : Mach-Zehnder
@@ -313,6 +316,7 @@ TDFA : Thulium Doped Fiber Amplifier
 TECM : Transfer Evidential C-Means
 THG  : Third Harmonic Generation
 TIA  : Trans-Impedance Amplifier
+TLD  : Tunable Laser Diode
 TS   : Training Sequence
 TSS  : Total Sum of Squares
 
