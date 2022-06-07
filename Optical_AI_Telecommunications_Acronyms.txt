@@ -6,6 +6,7 @@ AI   : Anomaly Indicator
 AGC  : Automatic Gain Control
 APD  : Avalanche Photo-Diode
 AN   : Access Network
+ANSI : American National Standard Institute
 ASE  : Amplified Spontaneous Emission
 ASK  : Amplitude Shift Keying
 ATM  : Asynchronous Transfer Mode
@@ -19,6 +20,7 @@ BEP  : Bit Error Probability
 BER  : Bit Error Ratio
 BFGS : Broyden Fletcher Goldfarb Shanno algorithm
 BIBO : Bounded Input Bounded Output
+BL   : Bend Loss
 BPD  : Balanced Photo Detector
 BS   : Beam Splitter
 BSC  : Belief Shift Clustering
@@ -31,6 +33,7 @@ CDC  : Chromatic Dispersion Compensation
 CDMA : Code Division Multiple Access
 CDR  : Clock Data Recovery
 CHAID: CHi squared Automatic Interaction Detector
+CDF  : Cumulative Density Function
 CKT  : circuit
 CMA  : Constant Modulus Algorithm
 CMT  : Coupled Mode Theory
@@ -42,6 +45,7 @@ CQF  : Conjugate Quadrature Filter
 CR   : Clock Recovery
 CRF  : Coherent Receiver Front-end
 CRI  : Credal Rand Index
+CS   : Cycle Slips
 CUT  : Channel Under Test
 CW   : Continuous Wave
 CWE  : Coupled Wave Equations
@@ -49,6 +53,7 @@ CWE  : Coupled Wave Equations
 % ----------- D
 DA   : Drive Amplifier
 DAC  : Digital to Analog Converter
+DAMA : Demand-Assignment Multiple-Access
 DBP  : Digital Back Propagation
 DCF  : Double Clad Fibre
 DCF  : Dispersion Compensated Fibre
@@ -58,6 +63,7 @@ DEC  : Dynamic Evidential Clustering
 DFB  : Distributed FeedBack
 DGD  : Differential Group Delay
 DMD  : Differential Mode Delay
+DOP  : Degree Of Polarisation
 DP   : Dual Polarisation
 DPD  : Digital Pre Distorsion
 DQPSK: Differential Quadrature Phase Shift Keying
@@ -128,6 +134,7 @@ HSPON: High Speed Passive Optical Network
 % ----------- I
 ICR  : Integrated Coherent Receiver
 ID3  : Iterative Dichotomiser 3
+IEC  : International Electrotechnical Commission
 IF   : Intermediate Frequency
 IG   : Information Gain
 IGN  : Incohrent Gaussian Noise
@@ -165,6 +172,7 @@ LWR  : Locally Weighted Regression
 MAN   : Metropolitan Area Network
 MARS  : Multivariate Adaptative Regression Splines
 MB    : Margin Boundaries
+MBL   : Micro Bending Loss
 MBS   : Multi-Band System
 MCF   : Multiple Core Fibre
 MCI   : Multi Channel Interference
@@ -201,6 +209,7 @@ OAM  : Orbital Angular Momentum
 OBPF : Optical Band Pass Filter
 ODN  : Optical Distribution Network
 OE   : Optics Express
+OECC : OptoElectronic and Communications Conference
 OEI  : Optical Emission Interface
 OEO  : optical-electrical-optical
 OFC  : Optical Fiber Communications
@@ -249,8 +258,12 @@ PP   : Power Penalty
 PPE  : Power Profile Estimator
 PPLN : Periodically Poled Lithium Niobate
 PPP  : Point to Point Protocol
+PS   : Polarisation State
+PSBT : Phase Shaped Binary Transmission
+PSC  : Photonics in Switching and Computing
 PSCF : Pure Silica Core Fibre
 PSK  : Phase Shift Keying 
+PSP  : Principle State of Polarisation
 PWM  : Pulse Width Modulation
 
 % ----------- Q
@@ -311,12 +324,16 @@ SVM   : Support Vector Machine
 TAT  : Trans Atlantic Telephone
 TBF  : Theory of Belief Functions
 TCP  : Transmission Control Protocol
+TDL  : Temperature Dependent Loss
 TDM  : Time Division Multiplexing
 TDFA : Thulium Doped Fiber Amplifier
+TEC  : Thermal Expansion Coefficients
 TECM : Transfer Evidential C-Means
 THG  : Third Harmonic Generation
 TIA  : Trans-Impedance Amplifier
+TIA  : Telecommunications Industry Association
 TLD  : Tunable Laser Diode
+TOC  : Thermo Opitc Coefficients
 TS   : Training Sequence
 TSS  : Total Sum of Squares
 
@@ -347,7 +364,6 @@ XT  : Cross Talk
 
 % ----------- Z
 ZFE  : Zero Forcing Equalizer
-
 
 % ----------- ***
 *PSPC : Projets de R&D Structurants Pour la Compétitivité
