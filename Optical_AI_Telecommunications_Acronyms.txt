@@ -46,6 +46,7 @@ CR   : Clock Recovery
 CRF  : Coherent Receiver Front-end
 CRI  : Credal Rand Index
 CS   : Cycle Slips
+CSI  : Channel State Informations
 CUT  : Channel Under Test
 CW   : Continuous Wave
 CWE  : Coupled Wave Equations
@@ -193,6 +194,7 @@ NA    : Numerical Aperture
 NEB   : Noise Equivalent Bandwidth
 NEP   : Noise Equivalent Power
 NLC   : Non Linear Compensation
+NLE   : Non Linear Equalizer
 NLI   : Non Linear Interference
 NLPN  : NonLinear Phase Noise
 NLSE  : Non Linear Schrodinger Equation
@@ -364,6 +366,7 @@ XT  : Cross Talk
 
 % ----------- Z
 ZFE  : Zero Forcing Equalizer
+
 
 % ----------- ***
 *PSPC : Projets de R&D Structurants Pour la Compétitivité
