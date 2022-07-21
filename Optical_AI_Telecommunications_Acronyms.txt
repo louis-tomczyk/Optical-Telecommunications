@@ -166,7 +166,9 @@ LMA  : Large Mode Area
 LMS  : Least Mean Square
 LNEO : Lithium Niobate Electro Optic
 LO   : Local Oscillator
+LOGO : Local Optimization Global optimization
 LS   : Least Squares
+LWN  : Locally white noise
 LWR  : Locally Weighted Regression
 
 % ----------- M
@@ -340,6 +342,7 @@ TS   : Training Sequence
 TSS  : Total Sum of Squares
 
 % ----------- U
+UT   : Uncompensated Transmission
 
 % ----------- V
 VCSEL: Vertical Cavity Surface Emitting Laser
